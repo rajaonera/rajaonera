@@ -12,7 +12,7 @@ Base de données : PostgreSQL, Oracle.
 
 Intégration continue : GitHub Actions, IntelliJ IDEA.
 
-Front-end : HTML, CSS, JavaScript, PHP-FPM.
+Front-end : HTML, CSS, JavaScript.
 
 
 Je travaille actuellement sur plusieurs projets dans les domaines suivants :
