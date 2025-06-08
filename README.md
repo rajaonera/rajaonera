@@ -4,7 +4,7 @@
 
 Je suis un développeur passionné, spécialisé dans la conception et le développement de solutions logicielles robustes et efficaces. Mon expertise inclut :
 
-Langages : Java, PHP, SQL (PostgreSQL, Oracle).
+Langages : Java, C#, SQL (PostgreSQL, Oracle).
 
 Frameworks et outils : Spring MVC, Docker, Maven, WildFly, GlassFish, Nginx.
 
