@@ -1,123 +1,45 @@
-👨‍💻 Bienvenue sur mon GitHub !
+# Hi there 👋, I'm rajaonera!
 
-🧑‍🏭 À propos de moi
+## 🚀 Full Stack Developer from Ambohitrimanjaka, Antananarivo
 
-Je suis un développeur passionné, spécialisé dans la conception et le développement de solutions logicielles robustes et efficaces. Mon expertise inclut :
-
-Langages : Java, C#, SQL (PostgreSQL, Oracle).
-
-Frameworks et outils : Spring MVC, Docker, Maven, WildFly, GlassFish, Nginx.
-
-Base de données : PostgreSQL, Oracle.
-
-Intégration continue : GitHub Actions, IntelliJ IDEA.
-
-Front-end : HTML, CSS, JavaScript.
-
-
-Je travaille actuellement sur plusieurs projets dans les domaines suivants :
-
-Gestion de boulangerie (stocks, produits, personnel, finances).
-
-Applications de gestion pour pharmacies.
-
-Développement de chatbots et outils d'assistance en recrutement.
-
-Automatisation de la génération de code (contrôleurs, pages front-end).
-
-
+Welcome to my GitHub! I’m passionate about building modern web applications and exploring new technologies in development, design, and gaming.
 
 ---
 
-📂 Projets épinglés
+### 🛠️ Skills & Tech Stack
 
-1. Gestion de boulangerie
-
-Description : Solution complète pour gérer les produits finis, le stock des matières premières, les mouvements financiers et la gestion des employés.
-
-Technologies utilisées :
-
-Backend : Java (Spring MVC), PostgreSQL.
-
-Déploiement : Docker (Nginx, PostgreSQL).
-
-
-
-➡️ Voir le projet
-
+- **Languages:** Python, PHP, JavaScript, HTML, CSS, Blade
+- **Frameworks:** Django, Laravel
+- **Focus:** Backend, Frontend, Full Stack Solutions
 
 ---
 
-2. Gestion de pharmacie
+### 🌟 Featured Projects
 
-Description : Une application Java pour suivre les produits pharmaceutiques, les maladies associées et la collaboration avec les laboratoires.
-
-Technologies utilisées :
-
-Backend : Java, PostgreSQL.
-
-Frontend : HTML/CSS (générés automatiquement via Maven).
-
-Infrastructure : Docker avec des conteneurs PostgreSQL.
-
-
-
-➡️ Voir le projet
-
+- [**Smart-Saha-Marketplace**](https://github.com/rajaonera/Smart-Saha-Marketplace)  
+  Equitable marketplace connecting agricultural producers with businesses. Includes secure negotiation, transaction validation, and smart moderation.
+- [**Madarom-project**](https://github.com/rajaonera/Madarom-project)  
+  PHP/Blade web application—shows my backend and Laravel chops.
+- [**skyresolv**](https://github.com/rajaonera/skyresolv)  
+  Frontend web project using HTML, CSS, and JavaScript.
+- [**DjangoProject**](https://github.com/rajaonera/DjangoProject)  
+  Python & Django starter project.
 
 ---
 
-3. Chatbot pour le recrutement
+### 👾 Interests
 
-Description : Un projet front-office pour informer les candidats sur les postes disponibles, connecté à un backend de gestion RH.
-
-Technologies utilisées :
-
-Backend : PHP, Java Servlets.
-
-Frontend : HTML, CSS, JavaScript.
-
-Serveur web : Tomcat jakartaEE
-
-
-
-➡️ Voir le projet
-
+- Development & coding  
+- Gaming  
+- Design & creative tech
 
 ---
 
-🛠️ Mes compétences techniques
+### 📫 Connect with Me
 
-## 🛠️ **Mes compétences techniques**
-
-| Catégorie                | Compétences                                                                                                                                              |
-|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Développement Backend** | Java (Spring MVC, Servlets, EJB), PHP.                                                                                                                  |
-| **Base de données**       | PostgreSQL, Oracle, gestion des transactions complexes et requêtes optimisées.                                                                          |
-| **Outils DevOps**         | Docker (création d’images, Docker Compose), CI/CD avec GitHub Actions.                                                                                  |
-| **Gestion front-end**     | HTML, CSS, JavaScript, intégration avec des backends PHP ou
---
-
-🤝 Collaborations et contributions
-
-Je suis ouvert à collaborer sur des projets open-source ou des projets professionnels liés aux domaines suivants :
-
-Automatisation et outils de gestion d’entreprise.
-
-Développement d’applications Java performantes et scalables.
-
-Optimisation des systèmes basés sur Docker et Nginx.
-
-
-N'hésitez pas à me contacter via un de mes dépôts !
-
+<!-- Add your social links here, e.g. -->
+<!-- [LinkedIn](#) • [Twitter](#) • [Personal Site](#) -->
 
 ---
 
-📬 Me contacter
-
-Email : hugueszeus@gmail.com
-
-
-
-Merci de visiter mon GitHub ! 😊
+![rajaonera's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rajaonera&show_icons=true)
